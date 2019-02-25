@@ -11,9 +11,12 @@ This is an RShiny-based fantasy basketball dashboard for GMs to make data driven
       - `1_load_data.r`: load and preprocess data
       - `2_plot.r`: generate major plots 
 
+<br />
 
 Here are some screenshot examples:
 
-![](.\\graphs\\dashboard_demo1.png)
+![Screenshot 1: Players' season rankings & performance](graphs/dashboard_demo1.png)
 
-![](.\\graphs\\dashboard_demo2.png)
+<br />
+
+![Screenshot 2: Compare to other players by category](graphs/dashboard_demo2.png)
